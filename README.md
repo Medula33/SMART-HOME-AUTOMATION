@@ -2,7 +2,7 @@
 
 📄 Project Description:
 
-The Smart Home Automation System is an IoT-enabled Flutter web application integrated with Firebase Firestore that allows users to remotely monitor and control various home devices in real-time. The system aims to enhance convenience, energy efficiency, and safety by providing a centralized dashboard for managing smart devices like lights, fans, and appliances.
+The Smart Home Automation System is an IoT-enabled web application integrated with Firebase Firestore that allows users to remotely monitor and control various home devices in real-time. The system aims to enhance convenience, energy efficiency, and safety by providing a centralized dashboard for managing smart devices like lights, fans, and appliances.
 
 🚀 Key Features:
 
@@ -17,7 +17,7 @@ Reports Tab: View categorized data like logs, usage records, and maintenance ent
 
 🧱 Tech Stack:
 
-Frontend: Flutter (Web)
+Frontend: ReactJS 
 Backend: Firebase Firestore (NoSQL Cloud Database)
 Realtime Sync: Firestore Streams
 Cloud Functions (Optional): For scheduled email notifications or alerts
